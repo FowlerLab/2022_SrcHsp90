@@ -1,0 +1,5 @@
+Region	Total clients	Total variants	Coverage	Median	Positions
+ɑF pocket	31	133	0.83125	-0.282282	[378, 381, 443, 444, 506, 508, 511, 512]
+β1-β2 strands	14	87	0.725	0.05177909	[273, 274, 275, 283, 285, 286]
+SH2 interface	1	49	0.81666667	0.03911715	[325, 368, 375]
+SH3 interface	1	78	0.975	0.26946102	[289, 290, 291, 293]

@@ -1,0 +1,36 @@
+Position	Class	n variants	n clients
+374	Adjacent	17	0
+375	Adjacent	15	0
+376	Adjacent	13	0
+377	Adjacent	16	1
+378	ɑF pocket	13	1
+379	Adjacent	18	0
+380	Adjacent	17	0
+381	ɑF pocket	9	7
+382	Adjacent	14	0
+383	Adjacent	8	0
+384	Adjacent	16	0
+385	Adjacent	13	0
+386	Adjacent	18	0
+441	Adjacent	20	0
+442	Adjacent	19	0
+443	ɑF pocket	18	3
+444	ɑF pocket	19	8
+445	Adjacent	20	0
+446	Adjacent	6	0
+447	Adjacent	16	0
+448	Adjacent	7	0
+503	Adjacent	19	0
+504	Adjacent	11	1
+505	Adjacent	20	0
+506	ɑF pocket	19	2
+507	Adjacent	16	1
+508	ɑF pocket	20	1
+509	Adjacent	20	0
+510	Adjacent	11	0
+511	ɑF pocket	16	3
+512	ɑF pocket	19	6
+513	Adjacent	18	1
+514	Adjacent	11	0
+515	Adjacent	20	0
+516	Adjacent	14	1

@@ -1,0 +1,23 @@
+Position	Class	n variants	n clients
+271	Adjacent	11	0
+272	Adjacent	0	0
+273	β1-β2 strands	12	3
+274	β1-β2 strands	14	3
+275	β1-β2 strands	13	1
+276	Adjacent	8	0
+277	Adjacent	13	0
+278	Adjacent	19	0
+279	Adjacent	15	0
+282	Adjacent	12	0
+283	β1-β2 strands	10	2
+284	Adjacent	18	0
+285	β1-β2 strands	18	5
+286	β1-β2 strands	20	0
+287	Adjacent	19	1
+295	Adjacent	13	0
+296	Adjacent	11	0
+297	Adjacent	14	0
+298	Adjacent	14	0
+299	Adjacent	18	2
+300	Adjacent	20	0
+343	Adjacent	2	1
